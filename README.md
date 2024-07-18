@@ -47,7 +47,7 @@ Here are some screenshots of the CareDrive application:
 
 
 
-### Highlishts
+### Highlights
 ![image](https://github.com/user-attachments/assets/a2f38ff9-1fa1-4e76-b0bf-60fbcfa860e1)
 
 
